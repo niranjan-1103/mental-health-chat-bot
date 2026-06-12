@@ -1,0 +1,21 @@
+# Environments
+.env
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local data & audio outputs
+data.json
+static/audio/
+static/uploads/
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
