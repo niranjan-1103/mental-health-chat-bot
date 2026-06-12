@@ -1,0 +1,321 @@
+{
+    "goals": [
+        {
+            "id": "0022646f-fa3b-4cff-9f73-c84fbcb6cb0b",
+            "title": "Drink 3 glasses of water",
+            "completed": false
+        },
+        {
+            "id": "e4faf19c-33d4-465c-9d96-7f9b4a43a271",
+            "title": "Take 5 deep breaths in the Resources tab",
+            "completed": false
+        },
+        {
+            "id": "bf49269a-299b-41e4-b68b-6cd68c0c9cc8",
+            "title": "Take a 15-minute walk outside to relieve stress",
+            "completed": true
+        },
+        {
+            "id": "cd676c20-9333-439b-92b9-038a70fa32e4",
+            "title": "Acknowledge 1 thing you are grateful for",
+            "completed": true
+        },
+        {
+            "id": "56396afc-6343-427e-ab4b-fc10733917c4",
+            "title": "Stretch your neck and shoulders",
+            "completed": true
+        }
+    ],
+    "moods": [
+        {
+            "timestamp": "2026-04-18T09:46:38.201051",
+            "mood": "Stressed",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-18T10:25:49.904879",
+            "mood": "Sad",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-18T10:27:20.978338",
+            "mood": "Happy",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-18T10:27:42.497771",
+            "mood": "Sad",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-18T10:48:07.450454",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-18T10:49:44.249985",
+            "mood": "Calm",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-21T18:51:51.257522",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-21T18:52:27.888908",
+            "mood": "Calm",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-21T18:52:52.074194",
+            "mood": "Happy",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-21T18:53:01.633652",
+            "mood": "Happy",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-21T18:53:05.583267",
+            "mood": "Calm",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-21T18:53:07.723234",
+            "mood": "Anxious",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-21T18:53:09.506547",
+            "mood": "Sad",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-21T18:53:59.404230",
+            "mood": "Stressed",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-21T18:55:14.119719",
+            "mood": "Stressed",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-21T18:56:43.248491",
+            "mood": "Stressed",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-21T18:58:09.830312",
+            "mood": "Stressed",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-21T18:58:53.488627",
+            "mood": "Stressed",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-21T19:00:38.043311",
+            "mood": "Happy",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T10:11:22.315375",
+            "mood": "Sad",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T10:17:12.316195",
+            "mood": "Sad",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:02:23.291639",
+            "mood": "Sad",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:03:09.315287",
+            "mood": "Calm",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:03:58.182759",
+            "mood": "Content",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:04:18.591808",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:05:05.947609",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:06:54.948635",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:07:36.888090",
+            "mood": "Happy",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:07:38.367830",
+            "mood": "Calm",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:07:40.381057",
+            "mood": "Anxious",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:07:41.879781",
+            "mood": "Sad",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:07:43.513014",
+            "mood": "Stressed",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:31:37.611474",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:44:15.611933",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:45:48.741476",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:52:03.334812",
+            "mood": "Friendly",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:58:24.449277",
+            "mood": "Happy",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:58:26.873404",
+            "mood": "Calm",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:58:28.661772",
+            "mood": "Anxious",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:58:30.291031",
+            "mood": "Sad",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:58:32.051459",
+            "mood": "Stressed",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T11:58:52.924009",
+            "mood": "Neutral",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T11:59:05.116097",
+            "mood": "Stressed",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T12:36:30.629648",
+            "mood": "Happy",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T12:36:39.512600",
+            "mood": "Calm",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T12:36:39.733227",
+            "mood": "Calm",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T12:38:01.952992",
+            "mood": "Neutral",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T12:38:41.117679",
+            "mood": "Happy",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T12:39:38.165957",
+            "mood": "Friendly",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T13:34:06.316893",
+            "mood": "Anxious",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-24T19:25:31.047353",
+            "mood": "Neutral",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T19:39:10.803833",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T19:39:50.226012",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-24T19:41:29.759382",
+            "mood": "Stressed",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-25T10:24:17.944260",
+            "mood": "Happy",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-25T10:24:49.580815",
+            "mood": "Stressed",
+            "source": "ai"
+        },
+        {
+            "timestamp": "2026-04-25T10:27:22.304427",
+            "mood": "Happy",
+            "source": "manual"
+        },
+        {
+            "timestamp": "2026-04-25T10:27:34.900930",
+            "mood": "Happy",
+            "source": "manual"
+        }
+    ]
+}
